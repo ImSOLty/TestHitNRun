@@ -1,2 +1,9 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.anim eol=lf
+*.asset eol=lf
+*.controller eol=lf
+*.mat eol=lf
+*.meta eol=lf
+*.physicsMaterial eol=lf
+*.physicsMaterial2D eol=lf
+*.prefab eol=lf
+*.unity eol=lf
